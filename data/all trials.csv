@@ -2,6 +2,6 @@ Study,Year,PMID, experimental_events, experimental_total, control_events, contro
 ICAP,2013,23992557,20,120,45,120, Primary prevention
 COPPS,2010,20805112,16,180,38,180, Primary prevention
 Finkelstein,2002,12574898,5,47,14,64, Primary prevention
-COPE,2005,16186437,7,60,20,62, Secondary prevention
+COPE,2005,16186437,7,60,20,60, Primary prevention
 CORE,2005,16186468,9,42,19,42, Secondary prevention
-COPE,2011,21873705,12,60,34,60, Secondary prevention
+CORP,2011,21873705,14,60,33,60, Secondary prevention
