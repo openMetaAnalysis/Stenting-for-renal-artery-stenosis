@@ -12,4 +12,4 @@ References:
 1. Imazio M, Brucato A, Forno D, Ferro S, Belli R, Trinchero R, Adler Y. Efficacy
 and safety of colchicine for pericarditis prevention. Systematic review and
 meta-analysis. Heart. 2012 Jul;98(14):1078-82. doi: 10.1136/heartjnl-2011-301306.
-Epub 2012 Mar 22. PMID: [22442198]{http://pubmed.gov/22442198).
+Epub 2012 Mar 22. PMID: [22442198](http://pubmed.gov/22442198).
