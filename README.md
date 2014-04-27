@@ -17,28 +17,37 @@ meta-analysis. Heart. 2012 Jul;98(14):1078-82. doi: 10.1136/heartjnl-2011-301306
 Epub 2012 Mar 22. PMID: [22442198](http://pubmed.gov/22442198).
 
 ### Randomized controlled trials
+#### New trials *not* included in the Imazio review 
+1. Imazio M, Belli R, Brucato A, Cemin R, Ferrua S, Beqaraj F, Demarie D, Ferro
+S, Forno D, Maestroni S, Cumetti D, Varbella F, Trinchero R, Spodick DH, Adler Y.
+Efficacy and safety of colchicine for treatment of multiple recurrences of
+pericarditis (CORP-2): a multicentre, double-blind, placebo-controlled,
+randomised trial. Lancet. 2014 Mar 28. pii: S0140-6736(13)62709-9. doi:
+10.1016/S0140-6736(13)62709-9. PMID: [24694983](http://pubmed.gov/24694983).
 1. Imazio M, Brucato A, Cemin R, Ferrua S, Maggiolini S, Beqaraj F, Demarie D,
 Forno D, Ferro S, Maestroni S, Belli R, Trinchero R, Spodick DH, Adler Y; ICAP
 Investigators. A randomized trial of colchicine for acute pericarditis. N Engl J 
 Med. 2013 Oct 17;369(16):1522-8. doi: 10.1056/NEJMoa1208536. Epub 2013 Aug 31.
  PMID: [23992557](http://pubmed.gov/23992557).
-2. Imazio M, Brucato A, Cemin R, Ferrua S, Belli R, Maestroni S, Trinchero R,
+
+#### Trials included in the Imazio review 
+1. Imazio M, Brucato A, Cemin R, Ferrua S, Belli R, Maestroni S, Trinchero R,
 Spodick DH, Adler Y; CORP (COlchicine for Recurrent Pericarditis) Investigators. 
 Colchicine for recurrent pericarditis (CORP): a randomized trial. Ann Intern Med.
 2011 Oct 4;155(7):409-14. doi: 10.7326/0003-4819-155-7-201110040-00359. Epub 2011
 Aug 28.  PMID: [21873705](http://pubmed.gov/21873705).
-3. Imazio M, Trinchero R, Brucato A, Rovere ME, Gandino A, Cemin R, Ferrua S,
+1. Imazio M, Trinchero R, Brucato A, Rovere ME, Gandino A, Cemin R, Ferrua S,
 Maestroni S, Zingarelli E, Barosi A, Simon C, Sansone F, Patrini D, Vitali E,
 Ferrazzi P, Spodick DH, Adler Y; COPPS Investigators. COlchicine for the
 Prevention of the Post-pericardiotomy Syndrome (COPPS): a multicentre,
 randomized, double-blind, placebo-controlled trial. Eur Heart J. 2010
 Nov;31(22):2749-54. doi: 10.1093/eurheartj/ehq319. Epub 2010 Aug 30.  PMID:
 [20805112](http://pubmed.gov/20805112).
-4. Imazio M, Bobbio M, Cecchi E, Demarie D, Pomari F, Moratti M, Ghisio A, Belli 
+1. Imazio M, Bobbio M, Cecchi E, Demarie D, Pomari F, Moratti M, Ghisio A, Belli 
 R, Trinchero R. Colchicine as first-choice therapy for recurrent pericarditis:
 results of the CORE (COlchicine for REcurrent pericarditis) trial. Arch Intern
 Med. 2005 Sep 26;165(17):1987-91.  PMID: PMID: [16186468.
-5. Finkelstein Y, Shemesh J, Mahlab K, Abramov D, Bar-El Y, Sagie A, Sharoni E,
+1. Finkelstein Y, Shemesh J, Mahlab K, Abramov D, Bar-El Y, Sagie A, Sharoni E,
 Sahar G, Smolinsky AK, Schechter T, Vidne BA, Adler Y. Colchicine for the
 prevention of postpericardiotomy syndrome. Herz. 2002 Dec;27(8):791-4. 
 PMID: [12574898](http://pubmed.gov/12574898).
