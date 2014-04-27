@@ -1,4 +1,5 @@
 Study,Year,PMID, experimental_events, experimental_total, control_events, control_total, Cofactor
+CORP-2, 2014, 24694983, 26,120,51,120, Secondary prevention
 ICAP,2013,23992557,20,120,45,120, Primary prevention
 COPPS,2010,20805112,16,180,38,180, Primary prevention
 Finkelstein,2002,12574898,5,47,14,64, Primary prevention
