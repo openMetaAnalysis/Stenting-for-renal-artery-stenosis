@@ -5,7 +5,7 @@ This repository contains the [source data](../../tree/master/data) and matching 
 
 This meta-analysis suggests that colchicine reduces the rates of recurrence of pericarditis.
 
-![alt text](../../tree/master/forest%20plots/all%20trials.png "Principle results")
+![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Stenting-for-renal-artery-stenosis/master/forest%20plots/all%20trials.png "Principle results")
 
 References:
 ----------------------------------
