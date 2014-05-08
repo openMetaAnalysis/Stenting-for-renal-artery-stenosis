@@ -1,7 +1,7 @@
-Colchicine for pericarditis
+Stenting for renal artery stenosis to prevent cardiovascular complications
 =================================
 
-This repository contains the [source data](https://github.com/openMetaAnalysis/Colchicine-for-pericarditis/tree/master/data) and matching [forest plots](https://github.com/openMetaAnalysis/Colchicine-for-pericarditis/tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/binary/www/) of colchicine for pericarditis. This repository updates a previously published meta-analysis by Imazio.(1)
+This repository contains the [source data](https://github.com/openMetaAnalysis/Colchicine-for-pericarditis/tree/master/data) and matching [forest plots](https://github.com/openMetaAnalysis/Colchicine-for-pericarditis/tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/binary/www/) of stenting for renal artery stenosis. This repository updates a previously published meta-analysis by Pierdomenico.(1)
 
 This meta-analysis suggests that colchicine reduces the rates of recurrence of pericarditis.
 
@@ -11,48 +11,42 @@ References:
 ----------------------------------
 
 ### Systematic review
-1. Imazio M, Brucato A, Forno D, Ferro S, Belli R, Trinchero R, Adler Y. Efficacy
-and safety of colchicine for pericarditis prevention. Systematic review and
-meta-analysis. Heart. 2012 Jul;98(14):1078-82. doi: 10.1136/heartjnl-2011-301306.
-Epub 2012 Mar 22. PMID: [22442198](http://pubmed.gov/22442198).
+1. Pierdomenico SD, Pierdomenico AM, Cuccurullo C, Mancini M, Di Carlo S,
+Cuccurullo F. Cardiac events in hypertensive patients with renal artery stenosis 
+treated with renal angioplasty or drug therapy: meta-analysis of randomized
+trials. Am J Hypertens. 2012 Nov;25(11):1209-14. doi: 10.1038/ajh.2012.110. PMID: [22854636](http://pubmed.gov/22854636).
 
 ### Randomized controlled trials
-#### New trials *not* included in the Imazio review 
-1. Imazio M, Belli R, Brucato A, Cemin R, Ferrua S, Beqaraj F, Demarie D, Ferro
-S, Forno D, Maestroni S, Cumetti D, Varbella F, Trinchero R, Spodick DH, Adler Y.
-Efficacy and safety of colchicine for treatment of multiple recurrences of
-pericarditis (CORP-2): a multicentre, double-blind, placebo-controlled,
-randomised trial. Lancet. 2014 Mar 28. pii: S0140-6736(13)62709-9. doi:
-10.1016/S0140-6736(13)62709-9. PMID: [24694983](http://pubmed.gov/24694983).
-1. Imazio M, Brucato A, Cemin R, Ferrua S, Maggiolini S, Beqaraj F, Demarie D,
-Forno D, Ferro S, Maestroni S, Belli R, Trinchero R, Spodick DH, Adler Y; ICAP
-Investigators. A randomized trial of colchicine for acute pericarditis. N Engl J 
-Med. 2013 Oct 17;369(16):1522-8. doi: 10.1056/NEJMoa1208536. Epub 2013 Aug 31.
- PMID: [23992557](http://pubmed.gov/23992557).
+#### New trial(s) *not* included in the review above
+1. Cooper CJ, Murphy TP, Cutlip DE, Jamerson K, Henrich W, Reid DM, Cohen DJ,
+Matsumoto AH, Steffes M, Jaff MR, Prince MR, Lewis EF, Tuttle KR, Shapiro JI,
+Rundback JH, Massaro JM, D'Agostino RB Sr, Dworkin LD; CORAL Investigators.
+Stenting and medical therapy for atherosclerotic renal-artery stenosis. N Engl J 
+Med. 2014 Jan 2;370(1):13-22. doi: 10.1056/NEJMoa1310753. PMID: [24245566](http://pubmed.gov/24245566).
 
-#### Trials included in the Imazio review 
-1. Imazio M, Brucato A, Cemin R, Ferrua S, Belli R, Maestroni S, Trinchero R,
-Spodick DH, Adler Y; CORP (COlchicine for Recurrent Pericarditis) Investigators. 
-Colchicine for recurrent pericarditis (CORP): a randomized trial. Ann Intern Med.
-2011 Oct 4;155(7):409-14. doi: 10.7326/0003-4819-155-7-201110040-00359. Epub 2011
-Aug 28.  PMID: [21873705](http://pubmed.gov/21873705).
-1. Imazio M, Trinchero R, Brucato A, Rovere ME, Gandino A, Cemin R, Ferrua S,
-Maestroni S, Zingarelli E, Barosi A, Simon C, Sansone F, Patrini D, Vitali E,
-Ferrazzi P, Spodick DH, Adler Y; COPPS Investigators. COlchicine for the
-Prevention of the Post-pericardiotomy Syndrome (COPPS): a multicentre,
-randomized, double-blind, placebo-controlled trial. Eur Heart J. 2010
-Nov;31(22):2749-54. doi: 10.1093/eurheartj/ehq319. Epub 2010 Aug 30.  PMID:
-[20805112](http://pubmed.gov/20805112).
-1. Imazio M, Bobbio M, Cecchi E, Demarie D, Pomari F, Moratti M, Ghisio A, Belli 
-R, Trinchero R. Colchicine as first-choice therapy for recurrent pericarditis:
-results of the CORE (COlchicine for REcurrent pericarditis) trial. Arch Intern
-Med. 2005 Sep 26;165(17):1987-91.  PMID: PMID: [16186468.
-1. Finkelstein Y, Shemesh J, Mahlab K, Abramov D, Bar-El Y, Sagie A, Sharoni E,
-Sahar G, Smolinsky AK, Schechter T, Vidne BA, Adler Y. Colchicine for the
-prevention of postpericardiotomy syndrome. Herz. 2002 Dec;27(8):791-4. 
-PMID: [12574898](http://pubmed.gov/12574898).
-6. Nakayama J, Ota H, Katsuyama T, Kanai M, Taki T, Hirabayashi Y, Suzuki Y.
-Immunohistochemical demonstration of glycoconjugates bearing the type 2
-chain-backbone structure in human fetal, normal and neoplastic gastrointestinal
-tract. Histochemistry. 1992 May;97(4):303-10.  PMID: [1618643](http://pubmed.gov/1618643).
+
+#### Trials included in the review above
+1. ASTRAL Investigators, Wheatley K, Ives N, Gray R, Kalra PA, Moss JG, Baigent
+C, Carr S, Chalmers N, Eadington D, Hamilton G, Lipkin G, Nicholson A, Scoble J. 
+Revascularization versus medical therapy for renal-artery stenosis. N Engl J Med.
+2009 Nov 12;361(20):1953-62. doi: 10.1056/NEJMoa0905368. PMID: [19907042](http://pubmed.gov/19907042).
+2. Bax L, Woittiez AJ, Kouwenberg HJ, Mali WP, Buskens E, Beek FJ, Braam B,
+Huysmans FT, Schultze Kool LJ, Rutten MJ, Doorenbos CJ, Aarts JC, Rabelink TJ,
+Plouin PF, Raynaud A, van Montfrans GA, Reekers JA, van den Meiracker AH,
+Pattynama PM, van de Ven PJ, Vroegindeweij D, Kroon AA, de Haan MW, Postma CT,
+Beutler JJ. Stent placement in patients with atherosclerotic renal artery
+stenosis and impaired renal function: a randomized trial. Ann Intern Med. 2009
+Jun 16;150(12):840-8, W150-1. PMID: [19414832](http://pubmed.gov/19414832).
+3. Woittiez AJ, Bartelink AK, Man in 't Veld AJ, Schalekamp MA. The effect of
+balloon angioplasty on hypertension in atherosclerotic renal-artery stenosis.
+Dutch Renal Artery Stenosis Intervention Cooperative Study Group. N Engl J Med.
+2000 Apr 6;342(14):1007-14. PMID: [10749962](http://pubmed.gov/10749962).
+4. Webster J, Marshall F, Abdalla M, Dominiczak A, Edwards R, Isles CG, Loose H, 
+Main J, Padfield P, Russell IT, Walker B, Watson M, Wilkinson R. Randomised
+comparison of percutaneous angioplasty vs continued medical therapy for
+hypertensive patients with atheromatous renal artery stenosis. Scottish and
+Newcastle Renal Artery Stenosis Collaborative Group. J Hum Hypertens. 1998
+May;12(5):329-35. PMID: [9655655](http://pubmed.gov/9655655).
+5. Scarpioni R, Michieletti E, Pavone L, Gandolfi S, Ricardi M, Pecchini P, Malberti F, Cristinelli L. Atherosclerotic renovascular disease (ARVD): medical therapy plus renal artery stenting (PRTS), compared with medical therapy alone, do not offer more chances in preventing C-V events or the progression of renal failure. Preliminary results of a prospective, multicenter and randomized trial. NDT Plus2009;2(Suppl 2): ii74.
+
 
