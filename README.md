@@ -3,7 +3,7 @@ Stenting for renal artery stenosis to prevent cardiovascular complications
 
 This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/binary/www/) of stenting for renal artery stenosis. This repository updates a previously published meta-analysis by Pierdomenico.(1)
 
-This meta-analysis suggests that colchicine reduces the rates of recurrence of pericarditis.
+This meta-analysis suggests that the intervention is *not* clinically effective.
 
 ![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Stenting-for-renal-artery-stenosis/master/forest%20plots/all%20trials.png "Principle results")
 
