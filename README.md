@@ -1,7 +1,7 @@
 Stenting for renal artery stenosis to prevent cardiovascular complications
 =================================
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/binary/www/) of stenting for renal artery stenosis. This repository updates a previously published meta-analysis by Pierdomenico.(1)
+This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/binary/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
 This meta-analysis suggests that the intervention is *not* clinically effective.
 
@@ -10,14 +10,15 @@ This meta-analysis suggests that the intervention is *not* clinically effective.
 References:
 ----------------------------------
 
-### Systematic review
+### Systematic review(s)
+####Most recent review at time of last revision of this repository
 1. Pierdomenico SD, Pierdomenico AM, Cuccurullo C, Mancini M, Di Carlo S,
 Cuccurullo F. Cardiac events in hypertensive patients with renal artery stenosis 
 treated with renal angioplasty or drug therapy: meta-analysis of randomized
 trials. Am J Hypertens. 2012 Nov;25(11):1209-14. doi: 10.1038/ajh.2012.110. PMID: [22854636](http://pubmed.gov/22854636).
 
 ### Randomized controlled trials
-#### New trial(s) *not* included in the review above
+#### New trial(s) *not* included in the most recent review above
 1. Cooper CJ, Murphy TP, Cutlip DE, Jamerson K, Henrich W, Reid DM, Cohen DJ,
 Matsumoto AH, Steffes M, Jaff MR, Prince MR, Lewis EF, Tuttle KR, Shapiro JI,
 Rundback JH, Massaro JM, D'Agostino RB Sr, Dworkin LD; CORAL Investigators.
