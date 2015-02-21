@@ -1,11 +1,22 @@
 Stenting for renal artery stenosis to prevent cardiovascular complications
 =================================
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
+A data-only living systematic review
 
-This meta-analysis suggests that the intervention is *not* clinically effective.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective.
 
-![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Stenting-for-renal-artery-stenosis/master/forest%20plots/all%20trials.png "Principle results")
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+
+This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
+
+See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+
+**Results:** Details of the studies included are in the:
+* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+
+The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Stenting-for-renal-artery-stenosis/master/forest-plots/Outcome-Primary.png "Principle results")
+
 
 References:
 ----------------------------------
